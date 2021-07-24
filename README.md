@@ -19,9 +19,9 @@ Exploring to what humans pay attention in dynamic panoramic scenes is useful for
 
 # Citation
 
-@article{zhang2021asod60k,
-  title={ASOD60K: Audio-Induced Salient Object Detection in Panoramic Videos},
-  author={Zhang, Yi and Chao, Fang-Yi and Ji, Ge-Peng and Fan, Deng-Ping and Zhang, Lu and Shao, Ling},
-  journal={arXiv preprint},
-  year={2021}
-}
+    @article{zhang2021asod60k,
+      title={ASOD60K: Audio-Induced Salient Object Detection in Panoramic Videos},
+      author={Zhang, Yi and Chao, Fang-Yi and Ji, Ge-Peng and Fan, Deng-Ping and Zhang, Lu and Shao, Ling},
+      journal={arXiv preprint},
+      year={2021}
+    }
