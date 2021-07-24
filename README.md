@@ -7,7 +7,7 @@ Exploring to what humans pay attention in dynamic panoramic scenes is useful for
   
   
 
-![alt text](./figures/fig_teaser.pdf)
+![alt text](./figures/fig_teaser.jpg)
 *Fig.Teaser: Annotation examples from the proposed ASOD60K dataset. (a) Illustration of head movement (HM). The subjects wear Head-Mounted Displays (HMDs) and observe 360à scenes by moving their head to control a field-of-view (FoV) in the range of 360à×180à. (b) Each subject (i.e., Subject 1 to Subject N) watches the video without restriction. (c) The HMD-embedded eye tracker records their eye fixations. (d) According to the fixations, we provide coarse-to-fine annotations for each FoV including (e) super/sub-classes, instance-level masks and attributes (e.g., GD-Geometrical Distortion).*
 
 
