@@ -1,4 +1,4 @@
-# ASOD60K: Audio-Induced Salient Object Detection in Panoramic Videos
+# ASOD60K: [Audio-Induced Salient Object Detection in Panoramic Videos](http://dpfan.net/wp-content/uploads/CvmMAIN.pdf) 
 
 Authors: [*Yi Zhang*], [*Fang-Yi Chao*], [*Ge-Peng Ji*](https://scholar.google.com/citations?user=oaxKYKUAAAAJ&hl=en), [*Deng-Ping Fan*](https://dpfan.net/), [*Lu Zhang*], [*Ling Shao*](https://scholar.google.com/citations?user=z84rLjoAAAAJ&hl=en).
 
