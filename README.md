@@ -16,6 +16,17 @@ Exploring to what humans pay attention in dynamic panoramic scenes is useful for
 
 :running: :running: :running: ***KEEP UPDATING***.
 
+------
+------
+
+# Dataset (ASOD60K)
+
+<p align="center">
+    <img src="./figures/fig_attributes.jpg"/> <br />
+    <em> 
+    Figure 2: Examples of challenging attributes on equirectangular (ER) images from our ASOD60K, with instance-level GT and fixations as annotation guidance. f(k,l,m) denote random frames of a given video. Best viewed in color.
+    </em>
+</p>
 
 
 # Citation
