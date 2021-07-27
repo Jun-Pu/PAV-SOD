@@ -18,7 +18,7 @@ Exploring to what humans pay attention in dynamic panoramic scenes is useful for
 
 ------
 
-# Dataset Annotations
+# Dataset Annotations and Attributes
 
 <p align="center">
     <img src="./figures/fig_attributes.jpg"/> <br />
@@ -37,6 +37,9 @@ Exploring to what humans pay attention in dynamic panoramic scenes is useful for
     </em>
 </p>
 
+------
+
+# Benchmark
 
 
 
