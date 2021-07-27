@@ -42,10 +42,10 @@ Exploring to what humans pay attention in dynamic panoramic scenes is useful for
 </p>
 
 
-<p align="center">
+<p align="right">
     <img src="./figures/fig_attr_statistics.jpg"/> <br />
     <em> 
-    Figure 4: Attributes description and stastistics.       (a)/(b) represent the correlation and frequency of ASOD60K’s attributes, respectively.
+    Figure 4: Attributes description and stastistics. (a)/(b) represent the correlation and frequency of ASOD60K’s attributes, respectively.
     </em>
 </p>
 
