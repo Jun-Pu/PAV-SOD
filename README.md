@@ -24,7 +24,7 @@ Exploring to what humans pay attention in dynamic panoramic scenes is useful for
 <p align="center">
     <img src="./figures/fig_attributes.jpg"/> <br />
     <em> 
-    Figure 2: Examples of challenging attributes on equirectangular (ER) images from our ASOD60K, with instance-level GT and fixations as annotation guidance. f(k,l,m) denote random frames of a given video. Best viewed in color.
+    Figure 2: Examples of challenging attributes on equirectangular (ER) images from our ASOD60K, with instance-level GT and fixations as annotation guidance. f(k,l,m) denote random frames of a given video.
     </em>
 </p>
 
@@ -35,7 +35,7 @@ Exploring to what humans pay attention in dynamic panoramic scenes is useful for
 <p align="center">
     <img src="./figures/fig_categories.jpg"/> <br />
     <em> 
-    Figure 3: Statistics of the proposed ASOD60K. (a) Super-/sub-category information. (b) Instance density of each sub-class. (c) Main components of ASOD60K scenes. Best viewed in color.
+    Figure 3: Statistics of the proposed ASOD60K. (a) Super-/sub-category information. (b) Instance density of each sub-class. (c) Main components of ASOD60K scenes.
     </em>
 </p>
 
