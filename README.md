@@ -73,7 +73,21 @@ Exploring to what humans pay attention in dynamic panoramic scenes is useful for
 
 ## Overall Quantitative Results
 
+<p align="center">
+    <img src="./figures/fig_quantitative_results.jpg"/> <br />
+    <em> 
+    Figure 7: Performance comparison of 7/3 state-of-the-art conventional I-SOD/V-SOD methods and one PI-SOD method over ASOD60K. ↑/↓ denotes a larger/smaller value is better. Best result of each column is bolded.
+    </em>
+</p>
 
+## Attributes-Specific Quantitative Results
+
+<p align="center">
+    <img src="./figures/fig_attr_quantitative_results.jpg"/> <br />
+    <em> 
+    Figure 8: Performance comparison of 7/3/1 state-of-the-art I-SOD/V-SOD/PI-SOD methods based on each of the attributes.
+    </em>
+</p>
 
 ------
 
