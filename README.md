@@ -31,7 +31,7 @@ Exploring to what humans pay attention in dynamic panoramic scenes is useful for
 <p align="center">
     <img src="./figures/fig_pass_reject.jpg"/> <br />
     <em> 
-    Figure 3: Passed and rejected examples of annotation quality control.
+    Figure 3: Detailed annotations. Passed and rejected examples of annotation quality control.
     </em>
 </p>
 
