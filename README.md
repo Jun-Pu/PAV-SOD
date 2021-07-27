@@ -91,6 +91,12 @@ Exploring to what humans pay attention in dynamic panoramic scenes is useful for
 
 ------
 
+# Evaluation Toolbox
+
+We provide one-key evaluation toolbox based on Python: https://github.com/zzhanghub/eval-co-sod
+
+------
+
 # Citation
 
     @article{zhang2021asod60k,
