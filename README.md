@@ -28,14 +28,26 @@ Exploring to what humans pay attention in dynamic panoramic scenes is useful for
 </p>
 
 
+<p align="center">
+    <img src="./figures/fig_attr_statistics.jpg"/> <br />
+    <em> 
+    Figure 3: Attributes description and stastistics. (a)/(b) represent the correlation and frequency of ASOD60K’s attributes, respectively.
+    </em>
+</p>
+
+
+
 # Dataset Statistics 
 
 <p align="center">
     <img src="./figures/fig_categories.jpg"/> <br />
     <em> 
-    Figure 3: Statistics of the proposed ASOD60K. (a) Super-/sub-category information. (b) Instance density of each sub-class. (c) Main components of ASOD60K scenes.
+    Figure 4: Statistics of the proposed ASOD60K. (a) Super-/sub-category information. (b) Instance density of each sub-class. (c) Main components of ASOD60K scenes.
     </em>
 </p>
+
+# Dataset 
+
 
 ------
 
