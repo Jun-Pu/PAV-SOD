@@ -19,7 +19,7 @@ Exploring to what humans pay attention in dynamic panoramic scenes is useful for
 ------
 ------
 
-# Dataset (ASOD60K)
+# Dataset Annotations
 
 <p align="center">
     <img src="./figures/fig_attributes.jpg"/> <br />
@@ -28,6 +28,20 @@ Exploring to what humans pay attention in dynamic panoramic scenes is useful for
     </em>
 </p>
 
+------
+------
+
+# Dataset Statistics 
+
+<p align="center">
+    <img src="./figures/fig_categories.jpg"/> <br />
+    <em> 
+    Figure 3: Statistics of the proposed ASOD60K. (a) Super-/sub-category information. (b) Instance density of each sub-class. (c) Main components of ASOD60K scenes. Best viewed in color.
+    </em>
+</p>
+
+------
+------
 
 # Citation
 
