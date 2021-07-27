@@ -17,7 +17,6 @@ Exploring to what humans pay attention in dynamic panoramic scenes is useful for
 :running: :running: :running: ***KEEP UPDATING***.
 
 ------
-------
 
 # Dataset Annotations
 
@@ -28,7 +27,6 @@ Exploring to what humans pay attention in dynamic panoramic scenes is useful for
     </em>
 </p>
 
-------
 
 # Dataset Statistics 
 
@@ -39,7 +37,9 @@ Exploring to what humans pay attention in dynamic panoramic scenes is useful for
     </em>
 </p>
 
-------
+
+
+
 ------
 
 # Citation
