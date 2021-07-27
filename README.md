@@ -29,7 +29,6 @@ Exploring to what humans pay attention in dynamic panoramic scenes is useful for
 </p>
 
 ------
-------
 
 # Dataset Statistics 
 
