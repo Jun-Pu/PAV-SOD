@@ -20,6 +20,12 @@ Exploring to what humans pay attention in dynamic panoramic scenes is useful for
 
 # Related Dataset Works
 
+<p align="center">
+    <img src="./figures/fig_related_works.jpg"/> <br />
+    <em> 
+    Figure 2: Summary of widely used salient object detection (SOD) datasets and the proposed panoramic video SOD (PV-SOD) dataset. #Img: The number of images/frames. #GT: The number of ground-truth masks. Pub. = Publication. Obj.-Level = Object-Level. Ins.-Level = Instance-Level. Fix.GT = Fixation-guided ground truths. † denotes equirectangular (ER) images.
+    </em>
+</p>
 
 
 ------
@@ -29,7 +35,7 @@ Exploring to what humans pay attention in dynamic panoramic scenes is useful for
 <p align="center">
     <img src="./figures/fig_attributes.jpg"/> <br />
     <em> 
-    Figure 2: Examples of challenging attributes on equirectangular (ER) images from our ASOD60K, with instance-level GT and fixations as annotation guidance. f(k,l,m) denote random frames of a given video.
+    Figure 3: Examples of challenging attributes on equirectangular (ER) images from our ASOD60K, with instance-level GT and fixations as annotation guidance. f(k,l,m) denote random frames of a given video.
     </em>
 </p>
 
@@ -37,7 +43,7 @@ Exploring to what humans pay attention in dynamic panoramic scenes is useful for
 <p align="center">
     <img src="./figures/fig_pass_reject.jpg"/> <br />
     <em> 
-    Figure 3: More annotations. Passed and rejected examples of annotation quality control.
+    Figure 4: More annotations. Passed and rejected examples of annotation quality control.
     </em>
 </p>
 
@@ -45,7 +51,7 @@ Exploring to what humans pay attention in dynamic panoramic scenes is useful for
 <p align="left">
     <img src="./figures/fig_attr_statistics.jpg"/> <br />
     <em> 
-    Figure 4: Attributes description and stastistics. (a)/(b) represent the correlation and frequency of ASOD60K’s attributes, respectively.
+    Figure 5: Attributes description and stastistics. (a)/(b) represent the correlation and frequency of ASOD60K’s attributes, respectively.
     </em>
 </p>
 
@@ -56,7 +62,7 @@ Exploring to what humans pay attention in dynamic panoramic scenes is useful for
 <p align="center">
     <img src="./figures/fig_categories.jpg"/> <br />
     <em> 
-    Figure 5: Statistics of the proposed ASOD60K. (a) Super-/sub-category information. (b) Instance density of each sub-class. (c) Main components of ASOD60K scenes.
+    Figure 6: Statistics of the proposed ASOD60K. (a) Super-/sub-category information. (b) Instance density of each sub-class. (c) Main components of ASOD60K scenes.
     </em>
 </p>
 
