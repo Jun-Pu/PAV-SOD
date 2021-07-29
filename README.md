@@ -117,6 +117,12 @@ All the quantitative results were computed based on one-key Python toolbox: http
 
 ------
 
+# Contact 
+
+Please feel free to drop an e-mail to yi.zhang1@insa-rennes.fr for further questions or discussion.
+
+------
+
 # Citation
 
     @article{zhang2021asod60k,
