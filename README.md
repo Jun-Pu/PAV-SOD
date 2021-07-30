@@ -115,6 +115,16 @@ All the quantitative results were computed based on one-key Python toolbox: http
 
 # Downloads
 
+The whole object-/instance level ground truth with default split can be downloaded from [LINK](https://drive.google.com/file/d/1oD9sr-gxy3U1m_AuSwo0eh1coG6O1WgS/view?usp=sharing)
+
+
+
+
+------
+
+# Contact
+
+Please feel free to drop an e-mail to yi.zhang1@insa-rennes.fr for questions or further discussion.
 
 ------
 
