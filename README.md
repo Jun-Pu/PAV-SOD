@@ -117,8 +117,11 @@ All the quantitative results were computed based on one-key Python toolbox: http
 
 The whole object-/instance-level ground truth with default split can be downloaded from [LINK](https://drive.google.com/file/d/1SjsYz57gArBVr_yzgcRnqYI4MpDiZ_Fh/view?usp=sharing)
 
+The videos with default split can be downloaded from [LINK](https://drive.google.com/file/d/1qYnXwKLZUtn4Gb8R9U5P4qsibUCNGoUN/view?usp=sharing). 
 
+To generate video frames, please refer to 'video_to_frames.py'.
 
+To get access to raw videos on YouTube, please refer to 'video_seq_link'. 
 
 ------
 
