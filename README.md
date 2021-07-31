@@ -115,7 +115,7 @@ All the quantitative results were computed based on one-key Python toolbox: http
 
 # Downloads
 
-The whole object-/instance-level ground truth with default split can be downloaded from [LINK](https://drive.google.com/file/d/1SjsYz57gArBVr_yzgcRnqYI4MpDiZ_Fh/view?usp=sharing)
+The whole object-/instance-level ground truth with default split can be downloaded from [Baidu](https://pan.baidu.com/s/1zDXE9iHGyWZFFUDIeaKIdQ)(k3h8) or [Google](https://drive.google.com/file/d/1SjsYz57gArBVr_yzgcRnqYI4MpDiZ_Fh/view?usp=sharing).
 
 The videos with default split can be downloaded from [LINK](https://drive.google.com/file/d/1qYnXwKLZUtn4Gb8R9U5P4qsibUCNGoUN/view?usp=sharing). 
 
