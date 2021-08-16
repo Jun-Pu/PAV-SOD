@@ -129,7 +129,8 @@ To get access to raw videos on YouTube, please refer to 'video_seq_link'.
 
 # Contact
 
-Please feel free to drop an e-mail to yi.zhang1@insa-rennes.fr for questions or further discussion.
+Please feel free to drop an e-mail to yi.zhang1@insa-rennes.fr for questions or further discussion. 
+
 If you have any question on head movement and eye fixation data, please contact fang-yi.chao@tcd.ie
 
 ------
