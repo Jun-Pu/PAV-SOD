@@ -123,7 +123,9 @@ The head movement and eye fixation data can be downloaded from [Google Drive](ht
 
 To generate video frames, please refer to 'video_to_frames.py'.
 
-To get access to raw videos on YouTube, please refer to 'video_seq_link'. Further, the original frame rates and timestamps (release soon) are listed in 'video_frame_rate.txt'.
+To get access to raw videos on YouTube, please refer to 'video_seq_link'. 
+
+To check basic information regrading the raw videos, please refer to 'video_information.txt' (keep updating).
 
 ------
 
