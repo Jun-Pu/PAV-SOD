@@ -121,11 +121,11 @@ The videos with default split can be downloaded from [Google Drive](https://driv
 
 The head movement and eye fixation data can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1tZDIESRiy3W2g--8lnNWag3KhpEGqTHc?usp=sharing)
 
-To generate video frames, please refer to 'video_to_frames.py'.
+To generate video frames, please refer to [video_to_frames.py](https://github.com/PanoAsh/ASOD60K/blob/main/video_to_frames.py).
 
-To get access to raw videos on YouTube, please refer to 'video_seq_link'. 
+To get access to raw videos on YouTube, please refer to [video_seq_link](https://github.com/PanoAsh/ASOD60K/blob/main/video_seq_link). 
 
-To check basic information regrading the raw videos, please refer to 'video_information.txt' (keep updating).
+To check basic information regrading the raw videos, please refer to [video_information.txt](https://github.com/PanoAsh/ASOD60K/blob/main/video_information.txt) (keep updating).
 
 ------
 
