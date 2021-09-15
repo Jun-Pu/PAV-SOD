@@ -118,7 +118,7 @@ All the quantitative results were computed based on one-key Python toolbox: http
 In addition to the benchmark, we also provide a new baseline, i.e., PVNet, that outperforms all competing models on the Test0 (Miscellanea), where audio cues give least influences to the determination of salient objects, compared to the other two testing sets. Also utilizing only visual cues, our PVNet is able to take advantage of both 360° geometrical priors (introducing cube maps) and rich temporal information (borrowing temporal module from RCRNet) for better SOD in 360° videos.
 
 <p align="center">
-    <img src="./figures/fig_baseline.jpg" width="80%"/> <br />
+    <img src="./figures/fig_baseline.jpg" width="90%"/> <br />
     <em> 
     Figure 9: Our baseline, i.e., PVNet, consists of spatial modules (θ) and a temporal module(γ), thus taking advantage of both sequential and 360° geometrical attributes for effective PV-SOD.
     </em>
