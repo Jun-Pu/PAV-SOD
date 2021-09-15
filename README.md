@@ -124,6 +124,13 @@ In addition to the benchmark, we also provide a new baseline, i.e., PVNet, that 
     </em>
 </p>
 
+<p align="center">
+    <img src="./figures/fig_baseline_results.jpg" width="70%"/> <br />
+    <em> 
+    Figure 10: Performance comparison of 7/3 state-of-the-art conventional I-SOD/V-SOD methods, one PI-SOD method and our PVNet over ASOD60K-Test0. ↑/↓denotes alarger/smaller value is better. Best result of each column is bolded.
+    </em>
+</p>
+
 ------
 
 # Downloads
