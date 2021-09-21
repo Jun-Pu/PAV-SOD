@@ -113,33 +113,11 @@ All the quantitative results were computed based on one-key Python toolbox: http
 
 ------
 
-# New Baseline 
-
-In addition to the benchmark, we also provide a new baseline, i.e., PVNet, that outperforms all competing models on the Test0 (Miscellanea), where audio cues give least influences to the determination of salient objects, compared to the other two testing sets. Also utilizing only visual cues, our PVNet is able to take advantage of both 360° geometrical priors (introducing cube maps) and rich temporal information (borrowing temporal module from RCRNet) for better SOD in 360° videos.
-
-<p align="center">
-    <img src="./figures/fig_baseline.jpg" width="90%"/> <br />
-    <em> 
-    Figure 9: Our baseline, i.e., PVNet, consists of spatial modules (θ) and a temporal module(γ), thus taking advantage of both sequential and 360° geometrical attributes for effective PV-SOD.
-    </em>
-</p>
-
-<p align="center">
-    <img src="./figures/fig_baseline_results.jpg" width="60%"/> <br />
-    <em> 
-    Figure 10: Performance comparison of 7/3 state-of-the-art conventional I-SOD/V-SOD methods, one PI-SOD method and our PVNet over ASOD60K-Test0. ↑/↓denotes alarger/smaller value is better. Best result of each column is bolded.
-    </em>
-</p>
-
-------
-
 # Downloads
 
 The whole object-/instance-level ground truth with default split can be downloaded from [Baidu Dirve](https://pan.baidu.com/s/1zDXE9iHGyWZFFUDIeaKIdQ)(k3h8) or [Google Drive](https://drive.google.com/file/d/1SjsYz57gArBVr_yzgcRnqYI4MpDiZ_Fh/view?usp=sharing).
 
 The videos with default split can be downloaded from [Google Drive](https://drive.google.com/file/d/1qYnXwKLZUtn4Gb8R9U5P4qsibUCNGoUN/view?usp=sharing) or [OneDrive](https://1drv.ms/u/s!Ais1kZo7RR7Lg1Vt1cA_M05apzL7?e=PzZ4Va). 
-
-The results of our new baseline (PVNet) can be downloaded from [OneDrive](https://1drv.ms/u/s!Ais1kZo7RR7Li2mgNUWa3YI8YKdp?e=L4tc6W). To get source codes, pelase contact yi.zhang1@insa-rennes.fr.
 
 The head movement and eye fixation data can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1tZDIESRiy3W2g--8lnNWag3KhpEGqTHc?usp=sharing)
 
