@@ -1,4 +1,4 @@
-# [ASOD60K: An Audio-Induced Salient Object Detection Dataset for Panoramic Videos](https://arxiv.org/abs/2107.11629) 
+# [ASOD60K: An Audio-Induced Salient Object Detection Dataset for Panoramic Videos](https://www.researchgate.net/publication/353479185_ASOD60K_Audio-Induced_Salient_Object_Detection_in_Panoramic_Videos) 
 
 Authors: [*Yi Zhang*](https://scholar.google.com/citations?user=NeHBHVUAAAAJ&hl=en), [*Fang-Yi Chao*](https://scholar.google.com/citations?hl=en&user=C9vR9EwAAAAJ), [*Ge-Peng Ji*](https://scholar.google.com/citations?user=oaxKYKUAAAAJ&hl=en), [*Deng-Ping Fan*](https://dpfan.net/), [*Lu Zhang*](https://scholar.google.com/citations?user=BCzhwesAAAAJ&hl=en), [*Wassim Hamidouche*](https://scholar.google.com/citations?user=ywBnUIAAAAAJ&hl=en), [*Olivier Deforges*](https://scholar.google.com/citations?user=c5DiiBUAAAAJ&hl=en)
 
