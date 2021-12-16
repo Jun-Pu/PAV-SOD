@@ -131,7 +131,9 @@ To check basic information regarding the raw videos, please refer to [video_info
 
 # Contact
 
-Please feel free to drop an e-mail to yi.zhang1@insa-rennes.fr for questions or further discussion. 
+For any problems, please open an [issue](https://github.com/PanoAsh/ASOD60K/issues/new).
+
+Specifically,
 
 If you have any question on head movement and eye fixation data, please contact fang-yi.chao@tcd.ie
 
