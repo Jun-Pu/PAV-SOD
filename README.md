@@ -1,4 +1,4 @@
-# [ASOD60K: An Audio-Induced Salient Object Detection Dataset for Panoramic Videos](https://www.researchgate.net/publication/353479185_ASOD60K_Audio-Induced_Salient_Object_Detection_in_Panoramic_Videos) 
+# [Audio-Visual Salient Object Detection in 360° Panoramic Videos](https://www.researchgate.net/publication/353479185_ASOD60K_Audio-Induced_Salient_Object_Detection_in_Panoramic_Videos) 
 
 
 
@@ -104,6 +104,11 @@ Exploring to what humans pay attention in dynamic panoramic scenes is useful for
 10 | 2020 | AAAI     |  Pyramid Constrained Self-Attention Network for Fast Video Salient Object Detection | [Paper](http://mftp.mmcheng.net/Papers/20AAAI-PCSA.pdf)/[Project](https://github.com/guyuchao/PyramidCSA) 
 11 | 2020 | IEEE SPL     |  FANet: Features Adaptation Network for 360° Omnidirectional Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/9211754)/[Project](https://github.com/DreaMKHuang/FANet) 
 
+------
+
+# CAV-Net (Baseline Model)
+
+(release soon)
 
 ------
 
@@ -137,13 +142,3 @@ Specifically,
 
 If you have any question on head movement and eye fixation data, please contact fang-yi.chao@tcd.ie
 
-------
-
-# Citation
-
-    @article{zhang2021asod60k,
-      title={ASOD60K: Audio-Induced Salient Object Detection in Panoramic Videos},
-      author={Zhang, Yi},
-      journal={arXiv preprint arXiv:2107.11629},
-      year={2021}
-    }
