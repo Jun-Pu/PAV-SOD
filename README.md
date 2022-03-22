@@ -100,9 +100,6 @@ To check basic information regarding the raw videos, please refer to [video_info
 
 # Contact
 
-For any problems, please open an [issue](https://github.com/PanoAsh/ASOD60K/issues/new).
-
-Specifically,
-
-If you have any question on head movement and eye fixation data, please contact fang-yi.chao@tcd.ie
-
+yi.panoash@gmail.com 
+or 
+fang-yi.chao@tcd.ie (for details of head movement and eye fixation data).
