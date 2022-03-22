@@ -45,7 +45,7 @@ Object-level audiovisual saliency detection in 360° panoramic real-life dynamic
 
 # CAV-Net
 
-(codes release soon)
+For source codes please contact yi.panoash@gmail.com .
 
 ------
 
@@ -77,9 +77,9 @@ Object-level audiovisual saliency detection in 360° panoramic real-life dynamic
 
 # Downloads
 
-The whole object-/instance-level ground truth with default split can be downloaded from [Google Drive](https://drive.google.com/file/d/1SjsYz57gArBVr_yzgcRnqYI4MpDiZ_Fh/view?usp=sharing).
+The whole object-/instance-level ground truth with default split can be downloaded from [Google Drive](https://drive.google.com/file/d/1rrxrDEIiJhLhk4SGZV0zDSqmm8HXS2yb/view?usp=sharing).
 
-The videos with default split can be downloaded from [Google Drive](https://drive.google.com/file/d/1qYnXwKLZUtn4Gb8R9U5P4qsibUCNGoUN/view?usp=sharing). 
+The videos (with ambisonics) with default split can be downloaded from [Google Drive](https://drive.google.com/file/d/1sMRePuHBrQyXACqlgzIz7aKzy6qV5HaP/view?usp=sharing). 
 
 The head movement and eye fixation data can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1tZDIESRiy3W2g--8lnNWag3KhpEGqTHc?usp=sharing)
 
