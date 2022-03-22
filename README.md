@@ -46,7 +46,7 @@ Object-level audiovisual saliency detection in 360° panoramic real-life dynamic
 # CAV-Net (Baseline Model)
 
 <p align="center">
-    <img src="./figures/fig_model_struture.jpg"/> <br />
+    <img src="./figures/fig_model_structure.jpg"/> <br />
     <em> 
     Figure 5: The architecture of our CAV-Net, which consists of the proposed audiovisual posterior and prior distribution estimation modules, a SoundNet-based audio encoder, a hybrid-ViT-based visual encoder, fully convolutional decoders and one non-locally enhanced temporal module (NER) cited from RCRNet.
     </em>
