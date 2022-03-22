@@ -56,6 +56,32 @@ Object-level audiovisual saliency detection in 360° panoramic real-life dynamic
 
 ------
 
+# Performance
+
+<p align="center">
+    <img src="./figures/fig_performance_wo_pavs10k.jpg"/> <br />
+    <em> 
+    Figure 6: Performance comparison of our panoramic audiovisual network, i.e., CAV-Net and 12 state-of-the-art SOD/VOS methods without training on PAVS10K. I. = I-SOD. V. = V-SOD/VOS. Best result of each column is bolded.
+    </em>
+</p>
+
+<p align="center">
+    <img src="./figures/fig_performance_w_pavs10k.jpg"/> <br />
+    <em> 
+    Figure 7: Performance comparison between our CAV-Net and 13 state-of-the-art methods (including seven I-SOD (I.), five V-SOD/VOS (V.) and one 360° panoramic I-SOD (PI.) methods) with PAVS10K training.
+    </em>
+</p>
+
+
+<p align="center">
+    <img src="./figures/fig_visual.jpg"/> <br />
+    <em> 
+    Figure 8: Visual results of our CAV-Net on random frames of sequences (e.g., “Train”, “Snowfield” and “Spanish”), from the testing set of PAVS10K. On each frame, our CAV-Net is able to finely segment the salient objects strictly defined by fixations (left top), as well as predict uncertainty maps (left bottom) highlighting the challenging regions.
+    </em>
+</p>
+
+------
+
 # Downloads
 
 The whole object-/instance-level ground truth with default split can be downloaded from [Google Drive](https://drive.google.com/file/d/1SjsYz57gArBVr_yzgcRnqYI4MpDiZ_Fh/view?usp=sharing).
