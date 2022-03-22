@@ -89,8 +89,6 @@ To generate video frames, please refer to [video_to_frames.py](https://github.co
 
 To get access to raw videos on YouTube, please refer to [video_seq_link](https://github.com/PanoAsh/ASOD60K/blob/main/video_seq_link). 
 
-To check basic information regarding the raw videos, please refer to [video_information.txt](https://github.com/PanoAsh/ASOD60K/blob/main/video_information.txt) (keep updating).
-
 ------
 
 # Contact
