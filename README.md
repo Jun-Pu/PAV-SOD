@@ -1,4 +1,6 @@
-# Panoramic Audiovisual Salient Object Detection (PAV-SOD)
+# Panoramic Audiovisual Salient Object Detection (PAV-SOD) 
+
+PDF coming soon...
 
 
 
