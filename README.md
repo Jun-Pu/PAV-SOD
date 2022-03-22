@@ -79,7 +79,7 @@ For source codes please contact yi.panoash@gmail.com .
 
 # Downloads
 
-The whole object-/instance-level ground truth with default split can be downloaded from [Google Drive](https://drive.google.com/file/d/1rrxrDEIiJhLhk4SGZV0zDSqmm8HXS2yb/view?usp=sharing).
+The whole object-/instance-level ground truth with default split can be downloaded from [Google Drive](https://drive.google.com/file/d/1knE8yWklzyoFZqy_T5IlWlyNDnhUTwVl/view?usp=sharing).
 
 The videos (with ambisonics) with default split can be downloaded from [Google Drive](https://drive.google.com/file/d/1sMRePuHBrQyXACqlgzIz7aKzy6qV5HaP/view?usp=sharing). 
 
