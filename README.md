@@ -23,7 +23,21 @@ Object-level audiovisual saliency detection in 360° panoramic real-life dynamic
 <p align="center">
     <img src="./figures/fig_related_datasets.jpg"/> <br />
     <em> 
-    Figure 2: Summary of widely used salient object detection (SOD)/video object segmentation (VOS) datasets and the proposed panoramic audiovisual SOD (PAV-SOD) dataset. #Img: The number of images/video frames. #GT: The number of object-level pixel-wise masks (ground truth for SOD). Pub. = Publication. Obj.-Level = Object-Level Labels. Ins.-Level = Instance-Level Labels. Fix. GT = Fixation Maps. † denotes equirectangular (ER) images.
+    Figure 2: Summary of widely used salient object detection (SOD)/video object segmentation (VOS) datasets and the proposed panoramic audiovisual SOD (PAV-SOD) dataset. #Img: The number of images/video frames. #GT: The number of object-level pixel-wise masks (ground truth for SOD). Pub. = Publication. Obj.-Level = Object-Level Labels. Ins.-Level = Instance-Level Labels. Fix. GT = Fixation Maps. † denotes equirectangular images.
+    </em>
+</p>
+
+<p align="center">
+    <img src="./figures/fig_dataset_examples.jpg"/> <br />
+    <em> 
+    Figure 3: Examples of challenging attributes on equirectangular images from our PAVS10K, with instance-level ground truth and fixations as annotation guidance. {𝑓𝑘, 𝑓𝑙, 𝑓𝑛} denote random frames of a given video.
+    </em>
+</p>
+
+<p align="center">
+    <img src="./figures/fig_dataset_statistics.jpg"/> <br />
+    <em> 
+    Figure 4: Statistics of the proposed PAVS10K. (a) Super-/sub-category information. (b) Instance density (labeled frames per sequence) of each sub-class. (c) Sound sources of PAVS10K scenes, such as musical instruments, human instances and animals.
     </em>
 </p>
 
@@ -31,7 +45,14 @@ Object-level audiovisual saliency detection in 360° panoramic real-life dynamic
 
 # CAV-Net (Baseline Model)
 
-(release soon)
+<p align="center">
+    <img src="./figures/fig_model_struture.jpg"/> <br />
+    <em> 
+    Figure 5: The architecture of our CAV-Net, which consists of the proposed audiovisual posterior and prior distribution estimation modules, a SoundNet-based audio encoder, a hybrid-ViT-based visual encoder, fully convolutional decoders and one non-locally enhanced temporal module (NER) cited from RCRNet.
+    </em>
+</p>
+
+(codes release soon)
 
 ------
 
