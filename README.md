@@ -58,9 +58,9 @@ Object-level audiovisual saliency detection in 360° panoramic real-life dynamic
 
 # Downloads
 
-The whole object-/instance-level ground truth with default split can be downloaded from [Baidu Dirve](https://pan.baidu.com/s/1zDXE9iHGyWZFFUDIeaKIdQ)(k3h8) or [Google Drive](https://drive.google.com/file/d/1SjsYz57gArBVr_yzgcRnqYI4MpDiZ_Fh/view?usp=sharing).
+The whole object-/instance-level ground truth with default split can be downloaded from [Google Drive](https://drive.google.com/file/d/1SjsYz57gArBVr_yzgcRnqYI4MpDiZ_Fh/view?usp=sharing).
 
-The videos with default split can be downloaded from [Google Drive](https://drive.google.com/file/d/1qYnXwKLZUtn4Gb8R9U5P4qsibUCNGoUN/view?usp=sharing) or [OneDrive](https://1drv.ms/u/s!Ais1kZo7RR7Lg1Vt1cA_M05apzL7?e=PzZ4Va). 
+The videos with default split can be downloaded from [Google Drive](https://drive.google.com/file/d/1qYnXwKLZUtn4Gb8R9U5P4qsibUCNGoUN/view?usp=sharing). 
 
 The head movement and eye fixation data can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1tZDIESRiy3W2g--8lnNWag3KhpEGqTHc?usp=sharing)
 
