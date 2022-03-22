@@ -79,9 +79,9 @@ For source codes please contact yi.panoash@gmail.com .
 
 # Downloads
 
-The whole object-/instance-level ground truth with default split can be downloaded from [Google Drive](https://drive.google.com/file/d/1knE8yWklzyoFZqy_T5IlWlyNDnhUTwVl/view?usp=sharing).
+The whole object-/instance-level ground truth with default split can be downloaded from [Google Drive](https://drive.google.com/file/d/1Whp_ftuXza8-vkjNtICdxdRebcmzcrFi/view?usp=sharing).
 
-The videos (with ambisonics) with default split can be downloaded from [Google Drive](https://drive.google.com/file/d/1sMRePuHBrQyXACqlgzIz7aKzy6qV5HaP/view?usp=sharing). 
+The videos (with ambisonics) with default split can be downloaded from [Google Drive](https://drive.google.com/file/d/13FEv1yAyMmK4GkiZ2Mce6gJxQuME7vG3/view?usp=sharing). 
 
 The head movement and eye fixation data can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1tZDIESRiy3W2g--8lnNWag3KhpEGqTHc?usp=sharing)
 
