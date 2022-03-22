@@ -43,7 +43,7 @@ Object-level audiovisual saliency detection in 360° panoramic real-life dynamic
 
 ------
 
-# CAV-Net (Baseline Model)
+# CAV-Net
 
 <p align="center">
     <img src="./figures/fig_model_structure.jpg"/> <br />
