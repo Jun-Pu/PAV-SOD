@@ -1,6 +1,3 @@
-# Panoramic Audiovisual Salient Object Detection
-
-------
 
 # PAVS10K
 
