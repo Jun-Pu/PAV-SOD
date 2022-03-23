@@ -2,7 +2,7 @@
 
 ------
 
-# Introduction
+# PAVS10K
 
 <p align="center">
     <img src="./figures/fig_teaser.jpg"/> <br />
@@ -11,14 +11,10 @@
     </em>
 </p>
 
-------
-
-# PAVS10K
-
 <p align="center">
     <img src="./figures/fig_related_datasets.jpg"/> <br />
     <em> 
-    Figure 2: Summary of widely used salient object detection (SOD)/video object segmentation (VOS) datasets and the proposed panoramic audiovisual SOD (PAV-SOD) dataset. #Img: The number of images/video frames. #GT: The number of object-level pixel-wise masks (ground truth for SOD). Pub. = Publication. Obj.-Level = Object-Level Labels. Ins.-Level = Instance-Level Labels. Fix. GT = Fixation Maps. † denotes equirectangular images.
+    Figure 2: Summary of widely used salient object detection (SOD)/video object segmentation (VOS) datasets and PAVS10K. #Img: The number of images/video frames. #GT: The number of object-level pixel-wise masks (ground truth for SOD). Pub. = Publication. Obj.-Level = Object-Level Labels. Ins.-Level = Instance-Level Labels. Fix. GT = Fixation Maps. † denotes equirectangular images.
     </em>
 </p>
 
