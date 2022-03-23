@@ -11,11 +11,6 @@
     </em>
 </p>
 
-Object-level audiovisual saliency detection in 360° panoramic real-life dynamic scenes is important for exploring and modeling human perception in immersive environments, also for aiding the development of virtual, augmented and mixed reality applications in the fields of such as education, social network, entertainment and training. To this end, we propose a new task, panoramic audiovisual salient object detection (PAV-SOD), which aims to segment the objects grasping most of the human attention in 360° panoramic videos reflecting real-life daily scenes. To support the task, we collect PAVS10K, the first panoramic video dataset for audiovisual salient object detection, which consists of 67 4K-resolution equirectangular videos with per-video labels including hierarchical scene categories and associated attributes depicting specific challenges for conducting PAV-SOD, and 10,465 uniformly sampled video frames with manually annotated object-level and instance-level pixel-wise masks. The coarse-to-fine annotations enable multi-perspective analysis regarding PAV-SOD modeling. We further systematically benchmark 13 state-of-the-art salient object detection (SOD)/video object segmentation (VOS) methods based on our PAVS10K. Besides, we propose a new baseline model, i.e., CAV-Net, which takes advantage of both visual and audio cues of 360 video frames by using a new conditional variational auto-encoder. As a result, our CAV-Net outperforms all competing models and is able to represent the data bias within PAVS10K via uncertainty estimation. With extensive experimental results, we gain several findings about PAV-SOD challenges and insights towards PAV-SOD model interpretability. We hope that our work could serve as a starting point for advancing SOD towards immersive media.
-
-
-:running: :running: :running: ***KEEP UPDATING***.
-
 ------
 
 # PAVS10K
@@ -38,38 +33,6 @@ Object-level audiovisual saliency detection in 360° panoramic real-life dynamic
     <img src="./figures/fig_dataset_statistics.jpg"/> <br />
     <em> 
     Figure 4: Statistics of the proposed PAVS10K. (a) Super-/sub-category information. (b) Instance density (labeled frames per sequence) of each sub-class. (c) Sound sources of PAVS10K scenes, such as musical instruments, human instances and animals.
-    </em>
-</p>
-
-------
-
-# CAV-Net
-
-For source codes please contact yi.panoash@gmail.com .
-
-------
-
-# Performance
-
-<p align="center">
-    <img src="./figures/fig_performance_wo_pavs10k.jpg"/> <br />
-    <em> 
-    Figure 6: Performance comparison of our panoramic audiovisual network, i.e., CAV-Net and 12 state-of-the-art SOD/VOS methods without training on PAVS10K. I. = I-SOD. V. = V-SOD/VOS. Best result of each column is bolded.
-    </em>
-</p>
-
-<p align="center">
-    <img src="./figures/fig_performance_w_pavs10k.jpg"/> <br />
-    <em> 
-    Figure 7: Performance comparison between our CAV-Net and 13 state-of-the-art methods (including seven I-SOD (I.), five V-SOD/VOS (V.) and one 360° panoramic I-SOD (PI.) methods) with PAVS10K training.
-    </em>
-</p>
-
-
-<p align="center">
-    <img src="./figures/fig_visual.jpg"/> <br />
-    <em> 
-    Figure 8: Visual results of our CAV-Net on random frames of sequences (e.g., “Train”, “Snowfield” and “Spanish”), from the testing set of PAVS10K. On each frame, our CAV-Net is able to finely segment the salient objects strictly defined by fixations (left top), as well as predict uncertainty maps (left bottom) highlighting the challenging regions.
     </em>
 </p>
 
