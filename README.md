@@ -63,6 +63,9 @@ To generate video frames, please refer to [video_to_frames.py](https://github.co
 
 To get access to raw videos on YouTube, please refer to [video_seq_link](https://github.com/PanoAsh/ASOD60K/blob/main/video_seq_link). 
 
+> Note: The dataset is for academic purpose only.
+> Note: If you find our work is helpful, please cite this [page](https://github.com/PanoAsh/PAV-SOD) in your research paper. Thanks.
+
 ------
 
 # Contact
