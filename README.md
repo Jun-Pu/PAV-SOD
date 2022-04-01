@@ -51,6 +51,14 @@
 
 ------
 
+# CAV-Net
+
+The codes are available at [src](https://github.com/PanoAsh/PAV-SOD/tree/main/src).
+
+The pre-trained models can be downloaded at [Google Drive](https://drive.google.com/file/d/1gNWmgmlBfJqCYE5phDuHTMFIou1TAmXs/view?usp=sharing).
+
+------
+
 # Downloads
 
 The whole object-/instance-level ground truth with default split can be downloaded from [Google Drive](https://drive.google.com/file/d/1Whp_ftuXza8-vkjNtICdxdRebcmzcrFi/view?usp=sharing).
