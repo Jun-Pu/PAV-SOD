@@ -71,7 +71,7 @@ To generate video frames, please refer to [video_to_frames.py](https://github.co
 
 To get access to raw videos on YouTube, please refer to [video_seq_link](https://github.com/PanoAsh/ASOD60K/blob/main/video_seq_link). 
 
-> Note: The dataset is for academic purpose only.
+> Note: The PAVS10K dataset does not own the copyright of videos. Only researchers and educators who wish to use the videos for non-commercial researches and/or educational purposes, have access to PAVS10K.
 
 > Note: If you find our work is helpful, please cite this [page](https://github.com/PanoAsh/PAV-SOD) in your research paper. Thanks.
 
