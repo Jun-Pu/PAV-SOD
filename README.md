@@ -79,6 +79,6 @@ To get access to raw videos on YouTube, please refer to [video_seq_link](https:/
 
 # Contact
 
-yi.panoash@gmail.com 
+yi23zhang.2022@gmail.com
 or 
 fang-yi.chao@tcd.ie (for details of head movement and eye fixation data).
