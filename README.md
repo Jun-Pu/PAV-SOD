@@ -70,7 +70,7 @@ The whole object-/instance-level ground truth with default split can be download
 
 The videos (with ambisonics) with default split can be downloaded from [Google Drive](https://drive.google.com/file/d/13FEv1yAyMmK4GkiZ2Mce6gJxQuME7vG3/view?usp=sharing). 
 
-The head movement and eye fixation data can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1tZDIESRiy3W2g--8lnNWag3KhpEGqTHc?usp=sharing)
+The head movement and eye fixation data can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1EpWc7GVcGFAn5VigV3c2-ZtIZElfXPX1?usp=sharing)
 
 To generate video frames, please refer to [video_to_frames.py](https://github.com/PanoAsh/ASOD60K/blob/main/video_to_frames.py).
 
