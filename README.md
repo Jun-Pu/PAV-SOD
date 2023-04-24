@@ -82,11 +82,14 @@ To get access to raw videos on YouTube, please refer to [video_seq_link](https:/
 
 # Citation
     
-    @article{zhang2022pav,
-      title={PAV-SOD: A New Task Towards Panoramic Audiovisual Saliency Detection},
+    @article{zhang2023pav,
+      title={PAV-SOD: A New Task towards Panoramic Audiovisual Saliency Detection},
       author={Zhang, Yi and Chao, Fang-Yi and Hamidouche, Wassim and Deforges, Olivier},
-      journal={ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)},
-      year={2022},
+      journal={ACM Transactions on Multimedia Computing, Communications and Applications},
+      volume={19},
+      number={3},
+      pages={1--26},
+      year={2023},
       publisher={ACM New York, NY}
     }
 
