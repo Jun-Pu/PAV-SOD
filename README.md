@@ -70,6 +70,8 @@ The whole object-/instance-level ground truth with default split can be download
 
 The videos (with ambisonics) with default split can be downloaded from [Google Drive](https://drive.google.com/file/d/13FEv1yAyMmK4GkiZ2Mce6gJxQuME7vG3/view?usp=sharing). 
 
+The videos (with mono sound) can be downloaded from [Google Drive](https://drive.google.com/file/d/1klJnHSiUM7Ow2LkdaLe-O6CEQ9qmdo2F/view?usp=sharing)
+
 The audio files (.wav) can be downloaded from [Google Drive](https://drive.google.com/file/d/1-jqDArcm8vBhyku3Xb8HLopG1XmpAS13/view?usp=sharing).
 
 The head movement and eye fixation data can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1EpWc7GVcGFAn5VigV3c2-ZtIZElfXPX1?usp=sharing).
